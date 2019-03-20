@@ -1,2 +1,2 @@
-# projetoTCC
-Sistema de Gerenciamento de Transportadora de Caminhões
+# Sistema  de Gerenciamento de Tranportadora de Caminhões
+Sistema para ajudar a controlar e melhor organizar o funcionamento de uma transportadora de caminhões.
