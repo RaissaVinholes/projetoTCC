@@ -144,7 +144,7 @@
                   </div>
                 </div>
                   <div class="text-center">
-               <a class="btn bg-gradient-orange my-4 text-center " href="../frete/index.jsp"><!--AdminWS?acao=list-->
+               <a class="btn bg-gradient-orange my-4 text-center " href="../home/home.jsp"><!--AdminWS?acao=list-->
                 <i class="tim-icons icon-bullet-list-67"></i> Entrar
             </a>
            </div>

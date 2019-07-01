@@ -189,7 +189,7 @@ public final class login_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("                  </div>\n");
       out.write("                </div>\n");
       out.write("                  <div class=\"text-center\">\n");
-      out.write("               <a class=\"btn bg-gradient-orange my-4 text-center \" href=\"../frete/index.jsp\"><!--AdminWS?acao=list-->\n");
+      out.write("               <a class=\"btn bg-gradient-orange my-4 text-center \" href=\"../home/home.jsp\"><!--AdminWS?acao=list-->\n");
       out.write("                <i class=\"tim-icons icon-bullet-list-67\"></i> Entrar\n");
       out.write("            </a>\n");
       out.write("           </div>\n");

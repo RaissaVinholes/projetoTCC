@@ -30,7 +30,7 @@
         <a href="http://www.creative-tim.com" class="simple-text logo-mini">
           
         </a>
-          <a class="fa fa-truck-moving fa-2x pull text-white text-center" href=""> <!--btn btn-info btn-fab btn-icon btn-round // LivroWS?acao=edit&id=${obj.id}-->
+          <a class="fa fa-truck-moving fa-2x pull text-white text-center" href="./../home/home.jsp"> <!--btn btn-info btn-fab btn-icon btn-round // LivroWS?acao=edit&id=${obj.id}-->
                 <i class="tim-icons icon-pencil" >Transportadora</i>
             </a>
         <a href="http://www.creative-tim.com" class="simple-text logo-normal">
