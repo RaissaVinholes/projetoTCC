@@ -177,7 +177,7 @@ public final class login_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("                    <div class=\"input-group-prepend\">\n");
       out.write("                      <span class=\"input-group-text\"><i class=\"ni ni-email-83\"></i></span>\n");
       out.write("                    </div>\n");
-      out.write("                    <input class=\"form-control\" placeholder=\"Digite seu email\" type=\"email\">\n");
+      out.write("                    <input class=\"form-control\" placeholder=\"Digite seu email\" type=\"email\" required>\n");
       out.write("                  </div>\n");
       out.write("                </div>\n");
       out.write("                <div class=\"form-group\">\n");
@@ -185,7 +185,7 @@ public final class login_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("                    <div class=\"input-group-prepend\">\n");
       out.write("                      <span class=\"input-group-text\"><i class=\"ni ni-lock-circle-open\"></i></span>\n");
       out.write("                    </div>\n");
-      out.write("                    <input class=\"form-control\" placeholder=\"Digite sua senha\" type=\"password\">\n");
+      out.write("                    <input class=\"form-control\" placeholder=\"Digite sua senha\" type=\"password\" required>\n");
       out.write("                  </div>\n");
       out.write("                </div>\n");
       out.write("                  <div class=\"text-center\">\n");

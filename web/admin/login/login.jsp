@@ -132,7 +132,7 @@
                     <div class="input-group-prepend">
                       <span class="input-group-text"><i class="ni ni-email-83"></i></span>
                     </div>
-                    <input class="form-control" placeholder="Digite seu email" type="email">
+                    <input class="form-control" placeholder="Digite seu email" type="email" required>
                   </div>
                 </div>
                 <div class="form-group">
@@ -140,7 +140,7 @@
                     <div class="input-group-prepend">
                       <span class="input-group-text"><i class="ni ni-lock-circle-open"></i></span>
                     </div>
-                    <input class="form-control" placeholder="Digite sua senha" type="password">
+                    <input class="form-control" placeholder="Digite sua senha" type="password" required>
                   </div>
                 </div>
                   <div class="text-center">
